@@ -6,6 +6,7 @@ This project presents a Convolutional Neural Network (CNN) model developed to cl
 ## 🌐 [**Live Demo on Streamlit**](https://eye-disease-classification-cnn-m59v9noqdytez6s8obcszw.streamlit.app/)
 
 -You can interact with the model directly through the Streamlit app by clicking the link above.
+
 -You can use [sample images](https://github.com/mujeebrahman022/Eye-Disease-Classification-CNN/tree/main/Sample_images) for prediction while using the streamlit.
 
 ## Project Structure
